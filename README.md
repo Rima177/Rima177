@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seema-mathuk&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seema-mathuk&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rima-mahato&show_icons=true&theme=radical" alt="Rima's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rima-mahato&layout=compact&theme=radical" alt="Rima's Top Languages" height="200"/>
 </p>
 
 ---
