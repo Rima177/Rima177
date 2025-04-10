@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rima-mahato&theme=radical" alt="Rima's GitHub Streak Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rima-mahato&theme=radical" height="200"/>
 </p>
 
 ---
