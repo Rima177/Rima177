@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer | Skilled in C++, Python, MySQL, HTML & CSS</b>  
+  <b>Python Developer | Skilled in C++, Python, MySQL, HTML & CSS</b>  
   <br />
   🌱 Currently learning more about full-stack development  
   💡 Love solving problems with code and building real-world projects  
