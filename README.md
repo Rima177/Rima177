@@ -43,9 +43,18 @@
 ## 📊 GitHub Stats
 
 
-Rima's GitHub stats](https://github-readme-stats.vercel.app/api?username=rima-mahato&show_icons=true&theme=radical)
+<!-- GitHub Stats Section (Professional Style) -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rima-mahato&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rima-mahato&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations=true&theme=graywhite" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rima-mahato&layout=compact&hide_title=true&theme=graywhite" height="170" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rima-mahato&theme=graywhite&hide_title=true" height="170" alt="GitHub Streak" />
+</div>
+
 
 
 ---
